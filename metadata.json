@@ -1,0 +1,6 @@
+{
+  "name": "SpeedGrab Auto Clicker",
+  "description": "Ultra-fast auto clicker and instant order grabber with flexible subscription plans, 24/7 rider helpline, and live support chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
